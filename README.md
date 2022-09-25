@@ -2,7 +2,6 @@
 ## Who am I?
 None of your business
 ## Hi there 👋
-This will be reverted with git revert
 
 this is part of a pull
 
